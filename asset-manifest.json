@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/crypto-app-react/static/js/main.7c647edf.js",
-    "static/media/btc.png": "/crypto-app-react/static/media/btc.04101b0b163c035fa57e.png",
-    "index.html": "/crypto-app-react/index.html",
-    "main.7c647edf.js.map": "/crypto-app-react/static/js/main.7c647edf.js.map"
+    "main.js": "/crypto-app/static/js/main.88c620e5.js",
+    "static/media/btc.png": "/crypto-app/static/media/btc.04101b0b163c035fa57e.png",
+    "index.html": "/crypto-app/index.html",
+    "main.88c620e5.js.map": "/crypto-app/static/js/main.88c620e5.js.map"
   },
   "entrypoints": [
-    "static/js/main.7c647edf.js"
+    "static/js/main.88c620e5.js"
   ]
 }
