@@ -6,6 +6,7 @@ import Exchanges from "./components/Exchanges";
 import CoinDetails from "./components/CoinDetails";
 import Footer from "./components/Footer";
 
+// Gaurav
 function App() {
   return (
     <Router>
